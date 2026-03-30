@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/expense-management-and-analytics-system-250556-250572/expense_frontend"
+}
